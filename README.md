@@ -1,4 +1,4 @@
-# Mental-health-project
+# OLS regression - Analyzing mental health-project
 This project is an analysis of a dataset from Kaggle. My analysis had the following steps:
 1. First, I loaded and inspected the dataset, checking for NAs and descriptions.
 2. Second, I made an array with all the unique values to inspect if values were correctly imputed.
